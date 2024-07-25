@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-source-serif-pro: "Source Serif Pro";
+  --font-inter: Inter;
+  --font-kaisei-decol: "Kaisei Decol";
+  --font-istok-web: "Istok Web";
+  --font-jaldi: Jaldi;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray-100: #33363f;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-10xs: 3px;
+  --br-131xl: 150px;
+  --br-64xl: 83px;
+}
